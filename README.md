@@ -45,7 +45,7 @@ Official news and academic information portal for SMK Negeri 3 Kotamobagu.
 ---
 
 ## 🌐 AI Evaluation & Language Work
-- **PT Indo Lingua Translocalize:** AI Avatar & Educational Content Evaluator for AWS Skill Builder modules in Indonesian (covering Retrieval-Augmented Generation / RAG, Amazon Bedrock Knowledge Base, and Cloud Security).
+- **AI Avatar & Technical Course Quality Evaluator:** Evaluated AI-generated avatar narration and technical accuracy for AWS Skill Builder modules in Indonesian (covering Retrieval-Augmented Generation / RAG, Amazon Bedrock Knowledge Base, and Cloud Security).
 - **Mercor:** Approved **Indonesian Linguistic Expert** for frontier AI lab research projects.
 - Native Indonesian speaker experienced in RLHF, instruction following, terminology localization, and nuance/fluency assessment.
 
