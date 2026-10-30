@@ -1,30 +1,55 @@
-# Hi, I'm jayyuzz 👋
+# Hi, I'm Jaya Hartono Pinuyut 👋
 
-Full-stack developer from Kotamobagu, Indonesia. I build web and mobile systems for real organisations — school attendance, school portals and cafe point-of-sale — and ship my own products too.
-Native Indonesian speaker, experienced in AI model evaluation and Indonesian-language review.
+Full-stack developer and educator based in Kotamobagu, Indonesia. I build production web and mobile systems for organisations (school attendance, institutional portals, cafe POS) and ship my own digital products. Experienced in AI model evaluation and Indonesian linguistic quality.
 
-**Stack:** Next.js · React · TypeScript · Tailwind · Supabase/PostgreSQL · Laravel · Express · Expo/React Native · Vercel
+**Core Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase / PostgreSQL · Laravel · Node.js / Express · Expo / React Native
 
-## Selected work
+---
 
-### SMK3 Absensi: school attendance system (web/PWA + mobile)
-Live: https://pr.smkn3kotamobagu.sch.id
-Attendance for teachers, staff and students at SMKN 3 Kotamobagu. Face recognition (face-api.js), GPS geofencing, WhatsApp notifications, role-based dashboards (principal, admin, teachers, homeroom teachers, students, parents), leave requests and reports.
-Next.js 16 · React 19 · TypeScript · Tailwind v4 · Supabase (Auth, RLS) · Expo React Native companion app.
+## 🚀 Featured Projects
 
-### Cafe POS: point of sale for cafe & restaurant
-Live: https://cafe.mve.my.id
-POS with shift handling, kitchen display, raw-material inventory with recipe-based stock deduction, QR table ordering, delivery/driver flow, reservations, waste tracking and sales reports.
-Next.js · TypeScript · Supabase · Recharts.
+### [SMK3 Absensi](https://github.com/jayyuzz/smk3-absensi-showcase) — School Attendance System
+**Live:** https://pr.smkn3kotamobagu.sch.id  
+Production attendance system built for SMKN 3 Kotamobagu covering teachers, administrative staff, and students.
+- In-browser face recognition via `face-api.js` + GPS geofencing with server validation
+- Role-based dashboards: Admin, Principal, Teachers, Homeroom Teachers, Students, Parents
+- Leave requests, holiday management, attendance recaps, and WhatsApp notifications (KirimDev / Fonnte)
+- Installable PWA + companion Expo / React Native mobile app
+- *Stack:* Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, Supabase (Auth, RLS), Vercel
 
-### marry: international market analyzer for small digital products
-Live: https://marry.myap.web.id
-Analyses overseas market prospects for ebooks, apps, templates and courses, generates an execution roadmap, 50+ output languages. Membership and Ko-fi webhook.
-Node.js/Express · Supabase · AI via OpenAI-compatible API · Vercel.
+### [marry](https://github.com/jayyuzz/marry) — International Market Analyzer for Digital Products
+**Live:** https://marry.myap.web.id  
+AI-powered tool analyzing overseas market prospects for small digital products (ebooks, apps, templates, courses) with an execution roadmap in 50+ languages.
+- Rate-limited AI analysis endpoints (`/api/analyze`, `/api/roadmap`)
+- Supabase auth & membership tiers integrated with Ko-fi webhook
+- 140+ trending product ideas database
+- *Stack:* Node.js, Express, Supabase, OpenAI-compatible AI gateway, Vercel
 
-### SMKN 3 Kotamobagu: official school website
-Live: https://smkn3kotamobagu.sch.id
-News portal with academics, achievements, extracurriculars, announcements and agenda. Laravel.
+### [Cafe POS](https://github.com/jayyuzz/cafe-pos-showcase) — Point of Sale & Back-Office
+**Live:** https://cafe.mve.my.id *(requires staff login)*  
+Full point-of-sale system built for cafe & restaurant operations.
+- POS checkout with shift opening/closing, cash discrepancy handling, and thermal printer API
+- Kitchen Display System (KDS), table QR ordering, delivery tracking with driver checklist
+- Inventory management: raw materials, recipe-based stock deduction, COGS calculation, waste tracking
+- *Stack:* Next.js, TypeScript, Supabase, Recharts, Tailwind CSS
 
-## Links
-GitHub: [@jayyuzz](https://github.com/jayyuzz) · Ko-fi: [marry2](https://ko-fi.com/marry2)
+### [SMKN 3 Kotamobagu Website](https://github.com/jayyuzz/smkn3-website-showcase) — Official Portal
+**Live:** https://smkn3kotamobagu.sch.id  
+Official news and academic information portal for SMK Negeri 3 Kotamobagu.
+- Academics, achievements, extracurriculars, announcements, and agenda
+- Integrated alumni portal and e-learning access
+- *Stack:* Laravel, MySQL, Activity Logging, Media Handling
+
+---
+
+## 🌐 AI Evaluation & Language Work
+- Native Indonesian speaker with experience in AI model evaluation, Indonesian-language instruction following, translation quality, and linguistic annotation
+- Approved **Indonesian Linguistic Expert** on Mercor
+
+---
+
+## 📬 Contact & Links
+- **GitHub:** [@jayyuzz](https://github.com/jayyuzz)
+- **Email:** jaya.pinuyut@gmail.com
+- **Ko-fi:** [marry2](https://ko-fi.com/marry2)
+- **Location:** Kotamobagu, North Sulawesi, Indonesia
