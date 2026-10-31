@@ -45,8 +45,9 @@ Official news and academic information portal for SMK Negeri 3 Kotamobagu.
 ---
 
 ## 🌐 AI Evaluation & Language Work
-- **AI Avatar & Technical Course Quality Evaluator:** Evaluated AI-generated avatar narration and technical accuracy for AWS Skill Builder modules in Indonesian (covering Retrieval-Augmented Generation / RAG, Amazon Bedrock Knowledge Base, and Cloud Security).
+- **Mercor Certified — Introduction to Agents:** Officially verified credential ([MRC-2026-5XW2RQSG](https://work.mercor.com/learn/verify/MRC-2026-5XW2RQSG)) demonstrating rigor, calibration, and clarity in autonomous AI agent evaluation and benchmarking.
 - **Mercor:** Approved **Indonesian Linguistic Expert** for frontier AI lab research projects.
+- **AI Avatar & Technical Course Quality Evaluator:** Evaluated AI-generated avatar narration and technical accuracy for AWS Skill Builder modules in Indonesian (covering Retrieval-Augmented Generation / RAG, Amazon Bedrock Knowledge Base, and Cloud Security).
 - Native Indonesian speaker experienced in RLHF, instruction following, terminology localization, and nuance/fluency assessment.
 
 ---
