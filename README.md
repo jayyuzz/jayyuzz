@@ -60,8 +60,12 @@ Official news and academic information portal for SMK Negeri 3 Kotamobagu.
 
 ---
 
-## 📬 Contact & Links
+## 📬 Contact & Channels
+- **Email:** [jaya.pinuyut@gmail.com](mailto:jaya.pinuyut@gmail.com)
+- **LinkedIn:** [jaya-hartono-pinuyut-1827b6410](https://www.linkedin.com/in/jaya-hartono-pinuyut-1827b6410)
+- **Telegram:** [@jayyuzz](https://t.me/jayyuzz)
 - **GitHub:** [@jayyuzz](https://github.com/jayyuzz)
-- **Email:** jaya.pinuyut@gmail.com
+- **Facebook:** [jayapinuyut](https://www.facebook.com/jayapinuyut)
 - **Ko-fi:** [marry2](https://ko-fi.com/marry2)
+- **Portfolio 3D:** [jayyuzz.github.io](https://jayyuzz.github.io)
 - **Location:** Kotamobagu, North Sulawesi, Indonesia
