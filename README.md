@@ -48,6 +48,14 @@ Official news and academic information portal for SMK Negeri 3 Kotamobagu.
 - **Mercor Certified — Introduction to Agents:** Officially verified credential ([MRC-2026-5XW2RQSG](https://work.mercor.com/learn/verify/MRC-2026-5XW2RQSG)) demonstrating rigor, calibration, and clarity in autonomous AI agent evaluation and benchmarking.
 - **Mercor:** Approved **Indonesian Linguistic Expert** for frontier AI lab research projects.
 - **AI Avatar & Technical Course Quality Evaluator:** Evaluated AI-generated avatar narration and technical accuracy for AWS Skill Builder modules in Indonesian (covering Retrieval-Augmented Generation / RAG, Amazon Bedrock Knowledge Base, and Cloud Security).
+
+---
+
+## 📜 Verified Credentials & Certifications
+- **Gemini Certified Educator** — Google for Education ([Verify Credential](https://edu.google.accredible.com/293b680b-115e-42e7-b917-6eccf1dcfe66#acc.7EKIO5ai))
+- **Google Certified Educator Level 2** — Google for Education ([Verify Credential](https://edu.google.accredible.com/e9a8d3a3-0f05-4f4d-9558-e976d04c848e#acc.wVqtE6Pa))
+- **Google Certified Educator Level 1** — Google for Education ([Verify Credential](https://edu.google.accredible.com/191a3e2b-ad39-49bd-98c3-c17143c7328d#acc.MoSQOdcK))
+- **Mercor Certified: Introduction to Agents** — Mercor ([Verify Credential](https://work.mercor.com/learn/verify/MRC-2026-5XW2RQSG))
 - Native Indonesian speaker experienced in RLHF, instruction following, terminology localization, and nuance/fluency assessment.
 
 ---
